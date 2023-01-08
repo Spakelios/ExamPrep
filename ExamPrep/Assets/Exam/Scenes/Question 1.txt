@@ -1,0 +1,23 @@
+A 3D tower defence game made in Unity has the following rules: 
+
+ 
+
+There is a crosshair in the centre of the screen that the player uses to select a location on the map in order to place a tower. 
+
+Towers become active when a creep comes in range. 
+
+When a tower becomes active it will turn to face the creep and continue targeting the creep so long as it stays in range. 
+
+Towers can fire 5 bullets per second.  
+
+Bullets disappear after 5 seconds if they don’t hit anything 
+
+There are three possible types of creeps and each has an equal probability of being spawned. 
+
+Creeps follow a path to get to the players base. 
+
+When a creep is hit with a bullet, it explodes and after a few seconds, sinks into the ground and gets removed from the scene. 
+
+ 
+
+Taking each of the rules above, how you would program them in Unity? 
